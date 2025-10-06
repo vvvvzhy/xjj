@@ -104,8 +104,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvse/yu/refs/heads/yu/yu/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvse/yu/refs/heads/yu/yu/虎牙直播.json"
+      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/xjj/refs/heads/hy/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/xjj/refs/heads/hy/0924/虎牙直播.json"
     },
 
     {
@@ -116,6 +116,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvse/yu/refs/heads/yu/yu/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvse/yu/refs/heads/yu/yu/斗鱼直播.json"
+      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/xjj/refs/heads/hy/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/xjj/refs/heads/hy/0924/斗鱼直播.json"
     },{"key":"电影天堂","name":"电影天堂","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":0},{"key":"爱壹帆","name":"爱壹帆","jar":"./18.jar;md5;875ce871703d1c382e0498711b9d3ba0","type":3,"searchable":1,"changeable":0,"quickSearch":0,"style":{"type":"rect","ratio":0.75},"api":"csp_GM","ext":{"userScript":"./yu/yfsp.js","debug":false,"webViewSettings":{"blockNetworkImage":true,"blockList":["*.png*","*.mp3*","*.css*","https://*.googletagmanager.com/*","https://*.google-analytics.com/*"]},"spider":{"homeContent":{"loadUrl":"https://m.yfsp.tv/"},"categoryContent":{"loadUrl":"https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"},"detailContent":{"loadUrl":"https://m.yfsp.tv/play/${id}"},"playerContent":{"loadUrl":"https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"},"searchContent":{"loadUrl":"https://m.yfsp.tv/search"}}}},{"key":"賤","name":"賤","type":3,"api":"./yu/賤.py","searchable":1,"filterable":0,"changeable":0},{"key":"麦田","name":"麦田/搜索无图","type":3,"api":"./yu/麦田.py","searchable":1,"filterable":0,"changeable":0},{"key":"4KVM","name":"4KVM","type":3,"api":"./yu/4KVM.py","searchable":1,"filterable":0,"changeable":0},{"key":"优视频","name":"优视频","type":4,"changeable":0,"api":"https://tvbot.ggff.net/uvod"},{"key":"金牌","name":"金牌","type":3,"api":"./yu/金牌.py","searchable":1,"filterable":0,"changeable":0},{"key":"爱瓜","name":"爱瓜","type":3,"api":"./yu/爱瓜.py","searchable":1,"filterable":0,"changeable":0},{"key":"永乐","name":"永乐","type":3,"api":"./yu/永乐.py","searchable":1,"filterable":0,"changeable":0},{"key":"瓜子","name":"瓜子","type":3,"changeable":0,"api":"./0924/drpy2.min.js","ext":"./yu/瓜子.js"}]}
