@@ -97,7 +97,7 @@
 
         
     {
-      "key": "csp_XYQHiker_虎牙直播",
+      "key": "csp_XYQHiker_网络虎牙直播",
       "name": "🎧洪宇┃网络虎牙",
       "type": 3,
       "api": "csp_XYQHiker",
@@ -109,7 +109,7 @@
     },
 
     {
-      "key": "csp_XYQHiker_斗鱼直播",
+      "key": "csp_XYQHiker_网络斗鱼直播",
       "name": "🎧洪宇┃网络斗鱼",
       "type": 3,
       "api": "csp_XYQHiker",
