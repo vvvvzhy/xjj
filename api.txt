@@ -93,7 +93,7 @@
         "type":3,"api":"csp_Market",
         "searchable":0,
         "changeable":0,
-        "ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/jjjzhy/vvvzhy/refs/heads/yu/0924/0924.json"},
+        "ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/xjj/refs/heads/hy/0924/0924.json"},
 
         
     {
